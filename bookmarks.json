@@ -45,12 +45,6 @@
       "url": "https://copilot.microsoft.com"
     },
     {
-      "id": "gemini",
-      "parent": "neurons",
-      "text": "Gemini",
-      "url": "https://gemini.google.com"
-    },
-    {
       "id": "replit",
       "parent": "dev",
       "text": "Replit",
