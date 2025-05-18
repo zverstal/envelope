@@ -24,7 +24,7 @@
       "id": "chatgpt",
       "parent": "neurons",
       "text": "ChatGPT",
-      "url": "https://chatgpt.com"
+      "url": "https://chat.openai.com"
     },
     {
       "id": "deepseek",
