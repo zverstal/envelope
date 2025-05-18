@@ -1,0 +1,72 @@
+{
+  "name": "Noi Mode",
+  "version": "0.2.0",
+  "modes": [
+    {
+      "id": "neurons",
+      "parent": 0,
+      "dir": true,
+      "text": "Нейронки"
+    },
+    {
+      "id": "dev",
+      "parent": 0,
+      "dir": true,
+      "text": "Разработка"
+    },
+    {
+      "id": "video",
+      "parent": 0,
+      "dir": true,
+      "text": "Видео"
+    },
+    {
+      "id": "chatgpt",
+      "parent": "neurons",
+      "text": "ChatGPT",
+      "url": "https://chatgpt.com"
+    },
+    {
+      "id": "deepseek",
+      "parent": "neurons",
+      "text": "DeepSeek",
+      "url": "https://chat.deepseek.com"
+    },
+    {
+      "id": "qwen",
+      "parent": "neurons",
+      "text": "QwenChat",
+      "url": "https://chat.qwen.ai"
+    },
+    {
+      "id": "copilot",
+      "parent": "neurons",
+      "text": "Copilot",
+      "url": "https://copilot.microsoft.com"
+    },
+    {
+      "id": "gemini",
+      "parent": "neurons",
+      "text": "Gemini",
+      "url": "https://gemini.google.com"
+    },
+    {
+      "id": "replit",
+      "parent": "dev",
+      "text": "Replit",
+      "url": "https://replit.com"
+    },
+    {
+      "id": "github",
+      "parent": "dev",
+      "text": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "id": "youtube",
+      "parent": "video",
+      "text": "YouTube",
+      "url": "https://www.youtube.com"
+    }
+  ]
+}
